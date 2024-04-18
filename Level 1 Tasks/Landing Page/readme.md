@@ -31,8 +31,6 @@ GitHub Guides
 
 ## Credits
 
-This landing page template is based on the design by Muammad Salman.
+This landing page template is based on the design by ## Muammad Salman.
 
-
-This project is licensed under the MIT License - see the LICENSE file for details.
 
