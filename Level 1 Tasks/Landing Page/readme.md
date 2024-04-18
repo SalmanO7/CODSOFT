@@ -31,6 +31,6 @@ GitHub Guides
 
 ## Credits
 
-This landing page template is based on the design by ## Muammad Salman.
+This landing page template is based on the design by  Muammad Salman.
 
 
